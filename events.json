@@ -1,0 +1,27 @@
+[
+ {
+  "title": "FOMC Statement",
+  "date": "2026-10-28T14:00:00-04:00",
+  "impact": "High"
+ },
+ {
+  "title": "Federal Funds Rate",
+  "date": "2026-10-28T14:00:00-04:00",
+  "impact": "High"
+ },
+ {
+  "title": "FOMC Press Conference",
+  "date": "2026-10-28T14:30:00-04:00",
+  "impact": "High"
+ },
+ {
+  "title": "Advance GDP q/q",
+  "date": "2026-10-29T08:30:00-04:00",
+  "impact": "High"
+ },
+ {
+  "title": "Core PCE Price Index m/m",
+  "date": "2026-10-29T08:30:00-04:00",
+  "impact": "High"
+ }
+]
