@@ -48,5 +48,30 @@
   "title": "Unemployment Rate",
   "date": "2026-11-06T08:30:00-05:00",
   "impact": "High"
+ },
+ {
+  "title": "CPI m/m",
+  "date": "2026-11-10T08:30:00-05:00",
+  "impact": "High"
+ },
+ {
+  "title": "Core CPI m/m",
+  "date": "2026-11-10T08:30:00-05:00",
+  "impact": "High"
+ },
+ {
+  "title": "Bank Holiday",
+  "date": "2026-11-11T08:00:00-05:00",
+  "impact": "Holiday"
+ },
+ {
+  "title": "Core PPI m/m",
+  "date": "2026-11-13T08:30:00-05:00",
+  "impact": "High"
+ },
+ {
+  "title": "PPI m/m",
+  "date": "2026-11-13T08:30:00-05:00",
+  "impact": "High"
  }
 ]
