@@ -93,5 +93,20 @@
   "title": "FOMC Meeting Minutes",
   "date": "2026-11-18T14:00:00-05:00",
   "impact": "High"
+ },
+ {
+  "title": "Core PCE Price Index m/m",
+  "date": "2026-11-25T08:30:00-05:00",
+  "impact": "High"
+ },
+ {
+  "title": "Prelim GDP q/q",
+  "date": "2026-11-25T08:30:00-05:00",
+  "impact": "High"
+ },
+ {
+  "title": "Bank Holiday",
+  "date": "2026-11-26T08:00:00-05:00",
+  "impact": "Holiday"
  }
 ]
